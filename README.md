@@ -4,7 +4,7 @@ You know my Russian homie asked me to share the way I mirror the servers in US r
 and last few days I've been working hard to release a more open solution of mirrors.  
 I needed to rewrite some things and release all the code with header files, so people could complie the mirror executable for their OS.  
   
-I finished literally two days ago until I received an email from what I believe to be Valve.  
+I finished literally two days ago and was ready to release until I received an email from what I believe to be Valve.  
 ![screenshot](https://raw.githubusercontent.com/poorfella/mirrorcsgo/main/_.jpeg)
 and I received it on my email I only used for this github thing and for my servers using sv_contact cvar. 
 
